@@ -3,5 +3,5 @@ venv/
 .vscode
 __pycache__
 
-images/*
-videos/*
+images/*.jpg
+videos/*.mov
